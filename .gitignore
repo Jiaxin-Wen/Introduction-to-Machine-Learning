@@ -1,0 +1,17 @@
+*.pdf
+*.pptx
+lab1/data
+.vscode
+*.txt
+*__pycache__
+*.zip
+lab2/MNIST
+*.json
+*.png
+*.csv
+*.pickle
+
+lab4/logs
+lab4/pretrain_models
+
+
